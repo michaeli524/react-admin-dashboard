@@ -1,4 +1,10 @@
 {
   "typescript.tsdk": "node_modules\\typescript\\lib",
-  "cSpell.ignoreWords": ["Formik", "Topbar"]
+  "cSpell.ignoreWords": [
+    "Formik",
+    "Topbar",
+    "daygrid",
+    "fullcalendar",
+    "timegrid"
+  ]
 }
