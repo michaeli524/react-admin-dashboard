@@ -186,7 +186,7 @@ export const themeSettings = (mode) => {
       },
       h6: {
         fontFamily: ["Source sans 3", "sans-serif"].join(","),
-        fontSize: 40,
+        fontSize: 14,
       },
     },
   };
