@@ -24,7 +24,7 @@ const FAQ = () => {
           <Typography>
             This is the text in test, and the content will be changed. At first
             we have a long text test in the first question. 1234 abcd ABCD
-            !@#$%^&*
+            !@#$%^&*6677
           </Typography>
         </AccordionDetails>
       </Accordion>
