@@ -110,7 +110,7 @@ const GeographyChart = ({ isDashBoard = false }) => {
                   {
                     on: "hover",
                     style: {
-                      itemTextColor: "#ffffff",
+                      itemTextColor: colors.grey[700],
                       itemOpacity: 1,
                     },
                   },
