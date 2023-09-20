@@ -1,5 +1,4 @@
 import { ResponsivePie } from "@nivo/pie";
-// import { BasicTooltip } from "@nivo/tooltip";
 import { tokens } from "../theme";
 import { useTheme } from "@mui/material";
 import { mockPieData as data } from "../data/mockData";
