@@ -1,36 +1,26 @@
-# A Dashboard App Built with React
+# VP Fancy Admin App
 
-This project was bootstrapped with Create React App by [Mikolee](https://github.com/Mikolee524)
+This project is a Admin App bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-## Available Scripts
+By [Mikolee](https://github.com/Mikolee524)
 
-In the project directory, you can run:
+## Motivation
 
-### `npm start`
+This project was created by me mainly to teach myself React development.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech/Framework Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React (create-react-app CLI)
+- react-router
+- Material-UI
+- Nivo Charts
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project requires [node](http://nodejs.org) and [npm](https://npmjs.com) installed globally.
 
-### `npm run build`
+Clone the repository to a directory of your choosing
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
+$ git https://github.com/Mikolee524/react-admin-dashboard.git
+```
