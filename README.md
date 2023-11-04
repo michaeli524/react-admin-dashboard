@@ -8,7 +8,7 @@ By [Michael Li](https://github.com/michaeli524)
 
 ## 动机
 
-这个项目用来让我自学 React 开发，熟悉 Material-UI 和 react-router 路由管理
+这个项目用来自学 React 开发，熟悉 Material-UI 和 react-router 路由管理
 
 ## 使用的技术框架
 
