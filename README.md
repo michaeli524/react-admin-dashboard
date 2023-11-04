@@ -2,6 +2,8 @@
 
 此项目使用 [Create React App](https://github.com/facebook/create-react-app)构建
 
+部署在 Vercel，[React Admin Dashboard](https://react-admin-dashboard-mikoli524.vercel.app/)
+
 By [Michael Li](https://github.com/michaeli524)
 
 ## 动机
