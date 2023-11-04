@@ -1,4 +1,4 @@
-# React Admin App
+# React Admin Dashboard
 
 此项目使用 [Create React App](https://github.com/facebook/create-react-app)构建
 
@@ -19,7 +19,7 @@ By [Michael Li](https://github.com/michaeli524)
 
 首先请全局安装[node](http://nodejs.org)和[npm](https://npmjs.com)
 
-选择您的工作目录，运行：
+选择您的工作目录，克隆项目
 
 ```sh
 > git clone https://github.com/michaeli524/react-admin-dashboard.git
