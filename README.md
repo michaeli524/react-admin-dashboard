@@ -2,7 +2,7 @@
 
 This project is a Admin App bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-By [Mikolee](https://github.com/Mikolee524)
+By [Michael Li](https://github.com/michaeli524)
 
 ## Motivation
 
