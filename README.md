@@ -1,26 +1,45 @@
-# VP Fancy Admin App
+# React Admin App
 
-This project is a Admin App bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+此项目使用 [Create React App](https://github.com/facebook/create-react-app)构建
 
 By [Michael Li](https://github.com/michaeli524)
 
-## Motivation
+## 动机
 
-This project was created by me mainly to teach myself React development.
+这个项目用来让我自学 React 开发，熟悉 Material-UI 和 react-router 路由管理
 
-## Tech/Framework Used
+## 使用的技术框架
 
 - React (create-react-app CLI)
 - react-router
 - Material-UI
 - Nivo Charts
 
-## Installation
+## 安装
 
-This project requires [node](http://nodejs.org) and [npm](https://npmjs.com) installed globally.
+首先请全局安装[node](http://nodejs.org)和[npm](https://npmjs.com)
 
-Clone the repository to a directory of your choosing
+选择您的工作目录，运行：
 
 ```sh
-> git https://github.com/michaeli524/react-admin-dashboard.git
+> git clone https://github.com/michaeli524/react-admin-dashboard.git
+```
+
+进入目录
+
+```sh
+> cd react-admin-dashboard
+
+```
+
+安装依赖
+
+```sh
+> npm install
+```
+
+依赖安装完成后，启动服务
+
+```sh
+> npm start
 ```
