@@ -22,5 +22,5 @@ This project requires [node](http://nodejs.org) and [npm](https://npmjs.com) ins
 Clone the repository to a directory of your choosing
 
 ```sh
-$ git https://github.com/Mikolee524/react-admin-dashboard.git
+> git https://github.com/michaeli524/react-admin-dashboard.git
 ```
