@@ -116,7 +116,7 @@ const Sidebar = () => {
                   Miko
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  VP Fancy Admin
+                  React Fancy Admin
                 </Typography>
               </Box>
             </Box>
