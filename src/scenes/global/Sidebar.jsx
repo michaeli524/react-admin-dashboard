@@ -96,7 +96,13 @@ const Sidebar = () => {
                   width="100px"
                   height="100px"
                   src={`../../assets/user.jpg`}
-                  style={{ cursor: "pointer", borderRadius: "50%" }}
+                  style={{
+                    cursor: "pointer",
+                    borderRadius: "50%",
+                  }}
+                  onClick={() =>
+                    (window.location.href = "https://github.com/michaeli524")
+                  }
                 />
               </Box>
 
