@@ -12,8 +12,7 @@ By [Michael Li](https://github.com/michaeli524)
 
 ## 使用的技术框架
 
-- React (create-react-app CLI)
-- react-router
+- React (create-react-app)
 - Material-UI
 - Nivo Charts
 
