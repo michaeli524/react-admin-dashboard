@@ -12,7 +12,8 @@ By [Michael Li](https://github.com/michaeli524)
 
 ## 使用的技术框架
 
-- React (create-react-app)
+- React
+- Create-React-App
 - Material-UI
 - Nivo Charts
 
@@ -30,7 +31,6 @@ By [Michael Li](https://github.com/michaeli524)
 
 ```sh
 > cd react-admin-dashboard
-
 ```
 
 安装依赖
